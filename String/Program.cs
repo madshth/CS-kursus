@@ -29,7 +29,7 @@ namespace String
             Console.WriteLine(fornavn + "\r\n\t" + efternavn);
             //System.IO.File.WriteAllText("c:\\temp\\test\\.txt", samletNavn);
             //System.IO.File.
-
+            //System.IO.File.o
             if (System.Diagnostics.Debugger.IsAttached)
             {
                 System.Console.Write("Press any key to continue . . . ");
